@@ -3,10 +3,8 @@
 Master degree student in Machine learning
 I'm a data scientist  in formation with a  software development background. I'm passionate about AI and its applications in the real world.
 Location:
-Paris, France
+
 Degree:
-Master
-Email:
  I have a master degree (first year ) in Artificial Intelligence from Sorbonne Université .
 ✨ In various projects, I had the chance to lead teams of 2 to 5 members and contribute to a lot of projects.
 ✨ I aspire to engage in transformative endeavors that enhance the lives of individuals and empower businesses, and always  learning data|IA tools🤩.

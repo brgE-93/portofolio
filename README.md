@@ -1,21 +1,17 @@
-# Portfolio
 
-## About
+
+## :information_source: About
 - Master degree student in Machine Learning.
 - Data scientist in formation with a software development background.
 - Passionate about AI and its real-world applications.
 
 ## Location
 - Paris, France
-
-## Master Degree
 - First year master's degree in Artificial Intelligence from Sorbonne Université.
-- Led teams of 2 to 5 members and contributed to various projects.
 - Aspire to engage in transformative endeavors that enhance lives and empower businesses, always learning data and AI tools 🤩.
 
-## Technical Skills
 
-### Education
+## :mortar_board: Education
 
 - **Master 2 - TRIED (Data Analysis, Processing, and Modeling)**
   - CNAM Paris, France
@@ -29,32 +25,32 @@
   - Sorbonne Université Paris, France
   - Main Courses: Algorithms & Data Structures, Project Management, System Design, Object-Oriented Programming.
 
-### Languages
+## :globe_with_meridians: Languages
 - English: Fluent
 - French: Native
 - Literary Arabic: Fluent
 
-## Soft Skills
+## :handshake: Soft Skills
 - **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
 - **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
 - **Autonomy:** Self-study and learn from online resources.
 - **Communication:** Enjoy giving presentations.
 - Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
 
-## Technical Skills
+## :computer: Technical Skills
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
 - **Programming Languages:** Python, SQL/MySQL, Java, R.
 - **Tools & Technologies:** Git.
 
-## Projects
+## :rocket: Projects
 
-**Sentiment Analysis for Amazon Food Reviews**
-- Conducted sentiment analysis for Amazon food reviews (Positive, Negative, and Neutral) as part of a team project.
+**Sentiment analysis on products reviews with lexicon model and DistillBERT transformers**
+- Conducted sentiment analysis for Amazon food reviews (from very bad to very good) as part of a personnal project not included in any academic work.
 - Language: Python
-- Tools: PyTorch, Gensim, Transformers, Bert, NLTK, Scikit-Learn, NumPy, Pandas, Plotly, Matplotlib, Seaborn, Imblearn.
+- Tools: PyTorch, Transformers, DistillBert,Vader model, NLTK, Scikit-Learn, NumPy, Pandas, Plotly, Matplotlib, Seaborn.
 - Challenges: Dealing with imbalanced data, as the neutral class had very few examples.
 
-## Interests
+## :bulb: Interests
 
 - :mountain: Hiking
 - :game_board: Chess

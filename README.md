@@ -50,7 +50,7 @@
 - Tools: PyTorch, Transformers, DistillBert,Vader model, NLTK, Scikit-Learn, NumPy, Pandas, Plotly, Matplotlib, Seaborn.
 - Challenges: Dealing with imbalanced data, as the neutral class had very few examples.
 
-## :bulb: Interests
+## 💡 Interests
 
 - :mountain: Hiking
 - :game_board: Chess

@@ -76,16 +76,16 @@ Selection of the best model to deploy in heroku for futur prediction
 - Tools:Jupiter Notebook ,VScode,Heroku,Flask,scikit-learn,pandas,seaborn,numpy,matplotlib,gunicorn,flask,Postman
 - Challenges:   - imbalanced dataset
 
-**machine learning for disease prediction**
-- For this project I have to solve a binary classification problem, predict if an individual is subject to heart disease according to several criteria collected by
-professionals in the field. I trained and optimized several predictive models with pipelines (Decision Trees, RandomForest, Boosting, SVM, logistic regression).
-Selection of the best model to deploy in heroku for futur prediction
-- Language:python
-- Tools:Jupiter Notebook ,VScode,Heroku,Flask,scikit-learn,pandas,seaborn,numpy,matplotlib,gunicorn,flask,Postman
-- Challenges:   - imbalanced dataset
+**Design and implementation of an interactive 3D environment**
+- For this project I had to Design and implement a interactive 3D environment using game engine Unity.I was in a  team of 3 people.
+  Defining gameplay from A to Z for a game involves creating interactions with the user interface, interactions within the game environment (whether with non-player characters (NPCs) or the scenery), as well as developing behaviors based on artificial intelligence (AI) algorithms
+- 
+- Language:C#
+- Tools:Unity,unity asset store,mixamo, mono develop,Trello
+- Challenges:   - Find an interesting story for the game
 ## 💡 Interests
 
-- :mountain: Hiking
+-  🧗‍♂️🏔️ Hiking
 - :game_board: Chess
 - :airplane: Travel
 - :books: Reading

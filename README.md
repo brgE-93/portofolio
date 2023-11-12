@@ -86,9 +86,12 @@ Selection of the best model to deploy in heroku for futur prediction
 - 
 ## 💡 Interests
 
-- 🧗‍♂️ Hiking
+- 🧗‍♂️🏔️ Hiking
+
 - ♟️ Chess
+
 - 🧳🌍 Travel
+
 - 📚 Reading
 
 

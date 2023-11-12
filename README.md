@@ -83,11 +83,12 @@ Selection of the best model to deploy in heroku for futur prediction
 - Language:C#
 - Tools:Unity,unity asset store,mixamo, mono develop,Trello
 - Challenges:   - Find an interesting story for the game
+- 
 ## 💡 Interests
 
--  🧗‍♂️🏔️ Hiking
-- :game_board: Chess
-- :airplane: Travel
-- :books: Reading
+- 🧗‍♂️ Hiking
+- ♟️ Chess
+- 🧳🌍 Travel
+- 📚 Reading
 
 

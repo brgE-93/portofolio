@@ -4,12 +4,10 @@
 - Master degree student in Machine Learning.
 - Data scientist in formation with a software development background.
 - Passionate about AI and its real-world applications.
-
-## Location
 - Paris, France
 - First year master's degree in Artificial Intelligence from Sorbonne Université.
 - Aspire to engage in transformative endeavors that enhance lives and empower businesses, always learning data and AI tools 🤩.
-
+As someone deeply committed to learning,  and a proactive achiever with a preference for taking initiative, I find joy in identifying and addressing significant challenges using data and technology, all while embracing an enjoyable approach.
 
 ## :mortar_board: Education
 
@@ -63,14 +61,15 @@ We immerse ourselves in a hypothetical scenario to gain insights into missed opp
 
 **Statistical study about of medical data**
 - This statistical study focuses on a medical database extracted from the BRFSS. I aim to characterize profiles of individuals affected by cardiovascular diseases based on various risk factors, including medical history, lifestyle, as well as physical and mental conditions. We seek to identify possible similarities or disparities among these patients.
-I will conduct univariate and bivariate statistical analysis. Subsequently, I will perform a Multiple Correspondence Analysis (MCA) followed by an unsupervised classification method ,a typologie (CAH)
+I  conducted univariate and bivariate statistical analysis. Subsequently, I will perform a Multiple Correspondence Analysis (MCA) followed by an unsupervised classification method ,a typologie (CAH)
 - Language: R
 - Tools: GNU R,FactomineR,Factoshiny
 - Challenges:   choice of statistical tests
   
 **machine learning for disease prediction**
 - For this project I have to solve a binary classification problem, predict if an individual is subject to heart disease according to several criteria collected by
-professionals in the field. I trained and optimized several predictive models with pipelines (Decision Trees, RandomForest, Boosting, SVM, logistic regression).
+professionals in the field.  Conducted data cleansing on raw data.
+I trained and optimized several predictive models with pipelines (Decision Trees, RandomForest, Boosting, SVM, logistic regression).
 Selection of the best model to deploy in heroku for futur prediction
 - Language:python
 - Tools:Jupiter Notebook ,VScode,Heroku,Flask,scikit-learn,pandas,seaborn,numpy,matplotlib,gunicorn,flask,Postman
@@ -79,11 +78,10 @@ Selection of the best model to deploy in heroku for futur prediction
 **Design and implementation of an interactive 3D environment**
 - For this project I had to Design and implement a interactive 3D environment using game engine Unity.I was in a  team of 3 people.
   Defining gameplay from A to Z for a game involves creating interactions with the user interface, interactions within the game environment (whether with non-player characters (NPCs) or the scenery), as well as developing behaviors based on artificial intelligence (AI) algorithms
-- 
 - Language:C#
 - Tools:Unity,unity asset store,mixamo, mono develop,Trello
 - Challenges:   - Find an interesting story for the game
-- 
+  
 ## 💡 Interests
 
 - 🧗‍♂️🏔️ Hiking

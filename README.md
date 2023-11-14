@@ -1,44 +1,11 @@
 
 
 ## :information_source: About
-- Master degree student in Machine Learning.
-- Data scientist in formation with a software development background.
-- Passionate about AI and its real-world applications.
-- Paris, France
-- First year master's degree in Artificial Intelligence from Sorbonne Université.
-- Aspire to engage in transformative endeavors that enhance lives and empower businesses, always learning data and AI tools 🤩.
-As someone deeply committed to learning,  and a proactive achiever with a preference for taking initiative, I find joy in identifying and addressing significant challenges using data and technology, all while embracing an enjoyable approach.
+Hi my name is Emna ,and welcome to my mini website !
 
-## :mortar_board: Education
-
-- **Master 2 - TRIED (Data Analysis, Processing, and Modeling)**
-  - CNAM Paris, France
-  - Main Courses: ML Algorithms, Deep Learning, Computer Vision, Large-Scale Distributed Data Processing, Probabilistic Models, Applied Statistics.
-
-- **Master 1 - Artificial Intelligence**
-  - Sorbonne Université Paris, France
-  - Main Courses: ML Algorithms, Deep Learning, Computer Vision, Large-Scale Distributed Data Processing, Probabilistic Generative Models, Applied Statistics, Advanced Optimization, Signal Processing, NLP, Information Retrieval, Reinforcement Learning.
-
-- **Bachelor - Computer Science**
-  - Sorbonne Université Paris, France
-  - Main Courses: Algorithms & Data Structures, Project Management, System Design, Object-Oriented Programming.
-
-## :globe_with_meridians: Languages
-- English: Fluent
-- French: Native
-- Literary Arabic: Fluent
-
-## :handshake: Soft Skills
-- **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
-- **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
-- **Autonomy:** Self-study and learn from online resources.
-- **Communication:** Enjoy giving presentations.
-- Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
-
-## :computer: Technical Skills
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
-- **Programming Languages:** Python, SQL/MySQL, Java, R.
-- **Tools & Technologies:** Git.
+I am pursuing a Master's Degree in Data Science at the respected CNAM, where I’m receiving solid training in all the major fields of Data Science,  like Statistical Analysis, machine learning ,data analysisI .I also have a software development background from my education at Sorbonne University . I am passionate about AI in  general and its real-world applications .
+ I'm excited by learning new things,  and spreading the word of data!
+Lets see some of my projects in the section below ,I'll link my work to their GitHub repositories, so feel free to download and experiment with my code.
 
 ## :rocket: Projects
 
@@ -81,6 +48,51 @@ Selection of the best model to deploy in heroku for futur prediction
 - Language:C#
 - Tools:Unity,unity asset store,mixamo, mono develop,Trello
 - Challenges:   - Find an interesting story for the game
+## :mortar_board: Education
+
+- **Master 2 - TRIED (Data Analysis, Processing, and Modeling)**
+  - CNAM Paris, France
+  - Main Courses: ML Algorithms, Deep Learning, Computer Vision, Large-Scale Distributed Data Processing, Probabilistic Models, Applied Statistics.
+
+- **Master 1 - Artificial Intelligence**
+  - Sorbonne Université Paris, France
+  - Main Courses: ML Algorithms, Deep Learning, Computer Vision, Large-Scale Distributed Data Processing, Probabilistic Generative Models, Applied Statistics, Advanced Optimization, Signal Processing, NLP, Information Retrieval, Reinforcement Learning.
+
+- **Bachelor - Computer Science**
+  - Sorbonne Université Paris, France
+  - Main Courses: Algorithms & Data Structures, Project Management, System Design, Object-Oriented Programming.
+
+## :globe_with_meridians: Languages
+- English: Fluent
+- French: Native
+- Literary Arabic: Fluent
+
+## :handshake: Soft Skills
+- **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
+- **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
+- **Autonomy:** Self-study and learn from online resources.
+- **Communication:** Enjoy giving presentations.
+- Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
+
+## :computer: Technical Skills
+- **Machine Learning:** 
+  <div style="line-height: 20px; display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="20">&nbsp;&nbsp;&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/695px-Tensorflow_logo.svg.png" height="20">&nbsp;&nbsp;&nbsp; 
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20">
+  </div>
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
+- **Programming Languages:** Python, SQL/MySQL, Java, R.
+- **Tools & Technologies:** PowerBi,Git,Unity.
+- **Libraries**  Pandas NumPy Matplotlib SciPy Plotly scikit-learn PyTorch Keras
+- IDEs/Editors  Visual Studio Code PyCharm RStudio Jupyter Notebook ,Eclipse
+
+![image](https://github.com/brgE-93/portofolio/assets/79338613/754d1baf-a8c2-4b7a-a69f-45ff94711762)
+![image](https://camo.githubusercontent.com/39f3f1372c6201500182d025fb21157b40e742b497482305c4b03b37d3f9abad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+
+
+
+
   
 ## 💡 Interests
 

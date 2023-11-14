@@ -1,5 +1,14 @@
 title: BE
 logo: /assets/IMG-20220225-WA0092-modified.png
-description: I’m currently learning data science 
+description:
+<details>
+  <summary>
+    <img src=/assets/maillogo.png alt="Email" height="30">
+  </summary>
+  <p align="center">
+    Paris, France  
+    <br> <a href="mail:bargaouiemnaaa@gmail.com">Cliquez ici pour envoyer un e-mail</a>
+  </p>
+</details>
 show_downloads: true
 theme: jekyll-theme-minimal

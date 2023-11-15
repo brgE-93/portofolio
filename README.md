@@ -88,19 +88,19 @@ Selection of the best model to deploy in heroku for futur prediction
   - Sorbonne Université Paris, France
   - Main Courses: Algorithms & Data Structures, Project Management, System Design, Object-Oriented Programming.
 
-## :globe_with_meridians: Languages
+## Languages
 - English: Fluent
 - French: Native
 - Literary Arabic: Fluent
 
-## :handshake: Soft Skills
+## Soft Skills
 - **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
 - **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
 - **Autonomy:** Self-study and learn from online resources.
 - **Communication:** Enjoy giving presentations.
 - Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
 
-## :computer: Technical Skills
+## Technical Skills
 
 
  **Machine Learning**
@@ -155,7 +155,7 @@ Selection of the best model to deploy in heroku for futur prediction
 
 
   
-## 💡 Interests
+##  Interests
 
  🧗‍♂️🏔️ Hiking &nbsp;&nbsp;&nbsp;♟️ Chess &nbsp;&nbsp;&nbsp; 🧳🌍 Travel &nbsp;&nbsp;&nbsp;📚 Reading
 

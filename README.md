@@ -34,7 +34,7 @@ We immerse ourselves in a hypothetical scenario to gain insights into missed opp
 - Language: Dax
 - Tools:Power BI, MySQl,DAX
 
-![Image](/assets/BI.png)
+![Image](/assets/BI.PNG)
 
 ### **Statistical study about of medical data**
 
@@ -46,7 +46,7 @@ I  conducted univariate and bivariate statistical analysis. Subsequently, I will
 - Tools: GNU R,FactomineR,Factoshiny
 - Challenges:   choice of statistical tests
 
-![Image](/assets/BI.png)
+![Image](/assets/stat.JPG)
   
 ### **machine learning for disease prediction**
 
@@ -60,7 +60,7 @@ Selection of the best model to deploy in heroku for futur prediction
 - Tools:Jupiter Notebook ,VScode,Heroku,Flask,scikit-learn,pandas,seaborn,numpy,matplotlib,gunicorn,flask,Postman
 - Challenges:   - imbalanced dataset
 
-![Image](/assets/stat.jpg)
+![Image](/assets/ml.png)
 
 **Design and implementation of an interactive 3D environment**
 
@@ -72,7 +72,7 @@ Selection of the best model to deploy in heroku for futur prediction
 - Tools:Unity,unity asset store,mixamo, mono develop,Trello
 - Challenges:   - Find an interesting story for the game
 
-  ![Image](/assets/evijv.png)
+  ![Image](/assets/evijv.PNG)
   
 ##  Education
 

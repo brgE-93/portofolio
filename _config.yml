@@ -1,17 +1,14 @@
-title: BE
-logo: /assets/IMG-20220225-WA0092-modified.png
-description: |
+
+title: <p align="center"> BE </p>
+
+logo: "/assets/IMG-20220225-WA0092-modified.png"
+
+description:
   <p align="center">
-    <details>
-      <summary>
-        <img src="/assets/maillogo.png" alt="Email" height="30">
-      </summary>
-      <p align="center">
-        Paris, France  
-        <br> <a href="mailto:bargaouiemnaaa@gmail.com">Cliquez ici pour envoyer un e-mail</a>
-      </p>
-    </details>
+  paris,France
+  <br> (+33) 123456798
+  <br> bargaouiemnaaa@gmail.com
+  <a href="https://github.com/brgE-93">GitHub</a> 
   </p>
-show_downloads: true
 theme: jekyll-theme-minimal
 

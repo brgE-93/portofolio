@@ -6,8 +6,7 @@ logo: "/assets/IMG-20220225-WA0092-modified.png"
 description:
   <p align="center">
   paris,France
-  <br> (+33) 123456798
-  <br> bargaouiemnaaa@gmail.com
+ <a href='mailto:bargaouiemnaaa@gmail.com'>GMAIL</a>|
   <a href="https://github.com/brgE-93">GitHub</a> 
   </p>
 theme: jekyll-theme-minimal

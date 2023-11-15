@@ -9,7 +9,10 @@ Lets see some of my projects in the section below ,I'll link my work to their Gi
 
 ## :rocket: Projects
 
-**Sentiment analysis on products reviews with lexicon model and DistillBERT transformers**
+### **Sentiment analysis on products reviews with lexicon model and DistillBERT transformers**
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brgE-93/DistilBert_review)
+
 - Conducted a sentiment analysis for Amazon products reviews (from very bad to very good) as part of a personnal project not included in any academic work.
 - I tried different approaches: - a lexicon model Vader to analyze the polarity of each review and conclude about the global sentiment ditribution .
                                 - a pre trained transformer from Hugging Face Distilbert to perform a multilabel classification and save it for futur prediction if necessary.
@@ -18,8 +21,10 @@ Lets see some of my projects in the section below ,I'll link my work to their Gi
 - Challenges: - Dealing with a significant  amount of data
               - consuming a lot of computational ressources
               - time consuming
+![Image](/assets/distil1.png)
   
-**Sales insights dashboard using with Power BI**
+### **Sales insights dashboard using with Power BI**
+
 -In this Power BI personal project , I will use a real-world dataset from a company .
 We immerse ourselves in a hypothetical scenario to gain insights into missed opportunities and sales from 2017 to 2020. I will utilize Power BI tools and incorporate DAX expressions to construct insightful visualizations of my findings.
 

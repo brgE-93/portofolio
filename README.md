@@ -75,33 +75,66 @@ Selection of the best model to deploy in heroku for futur prediction
 - Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
 
 ## :computer: Technical Skills
-- **Machine Learning:** 
+
+
+ **Machine Learning**
+  
   <div style="line-height: 20px; display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="20">&nbsp;&nbsp;&nbsp; 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/695px-Tensorflow_logo.svg.png" height="20">&nbsp;&nbsp;&nbsp; 
     <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20">
   </div>
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
-- **Programming Languages:** Python, SQL/MySQL, Java, R.
-- **Tools & Technologies:** PowerBi,Git,Unity.
-- **Libraries**  Pandas NumPy Matplotlib SciPy Plotly scikit-learn PyTorch Keras
-- IDEs/Editors  Visual Studio Code PyCharm RStudio Jupyter Notebook ,Eclipse
-
-![image](https://github.com/brgE-93/portofolio/assets/79338613/754d1baf-a8c2-4b7a-a69f-45ff94711762)
-![image](https://camo.githubusercontent.com/39f3f1372c6201500182d025fb21157b40e742b497482305c4b03b37d3f9abad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 
 
+ **Programming Languages** 
+ 
+  <div style="line-height: 20px; display: flex; align-items: center;">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="/assets/sql.svg" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="/assets/java.svg" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="https://www.r-project.org/Rlogo.png" height="30">
+  </div>
+
+
+ **Tools & Technologies** 
+ 
+  <div style="line-height: 20px; display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" height="20">&nbsp;&nbsp;&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="20">
+  </div>
+
+
+ **Libraries** 
+ 
+<div style="line-height: 20px; display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="/assets/matplotlib.png" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="/assets/SCIPY.png" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="/assets/plotly-official.svg" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30">&nbsp;&nbsp;&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30">
+</div>
+
+**IDEs/Editors**
+
+  <div style="line-height: 20px; display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="/assets/pycharm.png" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1200px-Eclipse-Luna-Logo.svg.png" height="30">
+  </div>
 
 
   
 ## 💡 Interests
 
-- 🧗‍♂️🏔️ Hiking
+ 🧗‍♂️🏔️ Hiking &nbsp;&nbsp;&nbsp;♟️ Chess &nbsp;&nbsp;&nbsp; 🧳🌍 Travel &nbsp;&nbsp;&nbsp;📚 Reading
 
-- ♟️ Chess
 
-- 🧳🌍 Travel
 
-- 📚 Reading
+ 
 
 

@@ -99,69 +99,15 @@ Selection of the best model to deploy in heroku for futur prediction
 
 ## Technical Skills
 
-<br>
 
- **Machine Learning**
-<br>
-  
-  <div style="line-height: 20px; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="20">&nbsp;&nbsp;&nbsp; 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/695px-Tensorflow_logo.svg.png" height="20">&nbsp;&nbsp;&nbsp; 
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20">
-  </div>
-
-<br>
-
- **Programming Languages** 
-<br>
- 
-  <div style="line-height: 20px; display: flex; align-items: center;">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="/assets/sql.svg" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="/assets/java.svg" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="https://www.r-project.org/Rlogo.png" height="30">
-  </div>
-
-<br>
-
- **Tools & Technologies** 
-<br>
- 
-  <div style="line-height: 20px; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" height="20">&nbsp;&nbsp;&nbsp; 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="20">
-  </div>
-
-<br>
-
- **Libraries** 
-<br>
-<div style="line-height: 20px; display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="/assets/matplotlib.png" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="/assets/SCIPY.png" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="/assets/plotly-official.svg" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30">&nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30">
-</div>
-<br>
-
-**IDEs/Editors**
-<br>
-  <div style="line-height: 20px; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="/assets/pycharm.png" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1200px-Eclipse-Luna-Logo.svg.png" height="30">
-  </div>
-
-<br>
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
+- **Programming Languages:** Python, SQL/MySQL, Java, R.
+- **Tools & Technologies:** PowerBi,Git,Unity.
+- **Libraries:** Pandas NumPy Matplotlib SciPy Plotly scikit-learn PyTorch Keras
 
   
 ##  Interests
+
 
  🧗‍♂️🏔️ Hiking &nbsp;&nbsp;&nbsp;♟️ Chess &nbsp;&nbsp;&nbsp; 🧳🌍 Travel &nbsp;&nbsp;&nbsp;📚 Reading
 

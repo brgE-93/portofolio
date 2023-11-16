@@ -1,5 +1,3 @@
-
-
 ##  About
 Hi my name is Emna ,and welcome to my mini website !
 
@@ -94,16 +92,17 @@ Selection of the best model to deploy in heroku for futur prediction
 - Literary Arabic: Fluent
 
 ## Soft Skills
-- **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
-- **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
-- **Autonomy:** Self-study and learn from online resources.
-- **Communication:** Enjoy giving presentations.
-- Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
+ **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
+ **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
+ **Autonomy:** Self-study and learn from online resources.
+ **Communication:** Enjoy giving presentations. Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
 
 ## Technical Skills
 
+<br>
 
  **Machine Learning**
+<br>
   
   <div style="line-height: 20px; display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="20">&nbsp;&nbsp;&nbsp; 
@@ -111,8 +110,10 @@ Selection of the best model to deploy in heroku for futur prediction
     <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20">
   </div>
 
+<br>
 
  **Programming Languages** 
+<br>
  
   <div style="line-height: 20px; display: flex; align-items: center;">
     <img src="https://www.python.org/static/community_logos/python-logo.png" height="30">&nbsp;&nbsp;&nbsp; 
@@ -121,17 +122,20 @@ Selection of the best model to deploy in heroku for futur prediction
     <img src="https://www.r-project.org/Rlogo.png" height="30">
   </div>
 
+<br>
 
  **Tools & Technologies** 
+<br>
  
   <div style="line-height: 20px; display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" height="20">&nbsp;&nbsp;&nbsp; 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="20">
   </div>
 
+<br>
 
  **Libraries** 
- 
+<br>
 <div style="line-height: 20px; display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" height="30">&nbsp;&nbsp;&nbsp; 
@@ -142,9 +146,10 @@ Selection of the best model to deploy in heroku for futur prediction
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30">&nbsp;&nbsp;&nbsp; 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30">
 </div>
+<br>
 
 **IDEs/Editors**
-
+<br>
   <div style="line-height: 20px; display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30">&nbsp;&nbsp;&nbsp; 
     <img src="/assets/pycharm.png" height="30">&nbsp;&nbsp;&nbsp; 
@@ -153,6 +158,7 @@ Selection of the best model to deploy in heroku for futur prediction
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1200px-Eclipse-Luna-Logo.svg.png" height="30">
   </div>
 
+<br>
 
   
 ##  Interests

@@ -9,5 +9,7 @@ description:
  <a href='mailto:bargaouiemnaaa@gmail.com'>GMAIL</a>|
   <a href="https://github.com/brgE-93">GitHub</a> 
   </p>
+comments:
+provider : false
 theme: jekyll-theme-minimal
 

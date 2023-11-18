@@ -1,4 +1,4 @@
-##  About
+# <font color="grey">About</font>
 Hi my name is Emna ,and welcome to my mini website !
 
 I am pursuing a Master's Degree in Data Science at the respected CNAM, where I’m receiving solid training in all the major fields of Data Science,  like Statistical Analysis, machine learning ,data analysisI .I also have a software development background from my education at Sorbonne University . I am passionate about AI in  general and its real-world applications .

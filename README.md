@@ -1,11 +1,11 @@
-## <font color="blue">About</font>
+## <font color="cyan">About</font>
 Hi my name is Emna ,and welcome to my mini website !
 
 I am pursuing a Master's Degree in Data Science at the respected CNAM, where I’m receiving solid training in all the major fields of Data Science,  like Statistical Analysis, machine learning ,data analysisI .I also have a software development background from my education at Sorbonne University . I am passionate about AI in  general and its real-world applications .
  I'm excited by learning new things,  and spreading the word of data!
 Lets see some of my projects in the section below ,I'll link my work to their GitHub repositories, so feel free to download and experiment with my code.
 
-##  <font color="blue">Projects</font>
+##  <font color="cyan">Projects</font>
 
 ### **Sentiment analysis on products reviews with lexicon model and DistillBERT transformers**
 
@@ -72,7 +72,7 @@ Selection of the best model to deploy in heroku for futur prediction
 
   ![Image](/assets/evijv.PNG)
   
-##  <font color="blue">Education</font>
+##  <font color="cyan">Education</font>
 
 - **Master 2 - TRIED (Data Analysis, Processing, and Modeling)**
   - CNAM Paris, France
@@ -86,24 +86,24 @@ Selection of the best model to deploy in heroku for futur prediction
   - Sorbonne Université Paris, France
   - Main Courses: Algorithms & Data Structures, Project Management, System Design, Object-Oriented Programming.
 
-## <font color="blue">Soft Skill</font>
+## <font color="cyan">Soft Skill</font>
 - **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
 - **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
 - **Autonomy:** Self-study and learn from online resources.
 - **Communication:** Enjoy giving presentations. Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
 
-## <font color="blue">Technical Skills</font>
+## <font color="cyan">Technical Skills</font>
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
 - **Programming Languages:** Python, SQL/MySQL, Java, R.
 - **Tools & Technologies:** PowerBi,Git,Unity.
 - **Libraries:** Pandas NumPy Matplotlib SciPy Plotly scikit-learn PyTorch Keras
 
-## <font color="blue">Languages</font>
+## <font color="cyan">Languages</font>
 - English: Fluent
 - French: Native
 - Literary Arabic: Fluent
   
-##  <font color="blue">Interests</font>
+##  <font color="cyan">Interests</font>
 
 
  🧗‍♂️🏔️ Hiking &nbsp;&nbsp;&nbsp;♟️ Chess &nbsp;&nbsp;&nbsp; 🧳🌍 Travel &nbsp;&nbsp;&nbsp;📚 Reading

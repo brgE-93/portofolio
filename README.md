@@ -46,7 +46,7 @@ I  conducted univariate and bivariate statistical analysis. Subsequently, I will
 
 ![Image](/assets/stat.JPG)
   
-### **machine learning for disease prediction**
+### **Machine learning for disease prediction**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brgE-93/Analysededonnees)
 
@@ -86,11 +86,6 @@ Selection of the best model to deploy in heroku for futur prediction
   - Sorbonne Université Paris, France
   - Main Courses: Algorithms & Data Structures, Project Management, System Design, Object-Oriented Programming.
 
-## Languages
-- English: Fluent
-- French: Native
-- Literary Arabic: Fluent
-
 ## Soft Skills
  **Leadership:** Enjoy taking charge of project requirements and delegating tasks in group projects.
  **Proactivity:** Always looking for new ways to increase efficiency and automate tasks.
@@ -98,13 +93,15 @@ Selection of the best model to deploy in heroku for futur prediction
  **Communication:** Enjoy giving presentations. Participated in projects that involved sending weekly reports, delivering presentations of findings, and composing comprehensive documentation.
 
 ## Technical Skills
-
-
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn.
 - **Programming Languages:** Python, SQL/MySQL, Java, R.
 - **Tools & Technologies:** PowerBi,Git,Unity.
-- **Libraries:** Pandas NumPy Matplotlib SciPy Plotly scikit-learn PyTorch Keras
+- **Libraries:** Pandas NumPy Matplotlib SciPy Plotly scikit-learn PyTorch Keras
 
+## Languages
+- English: Fluent
+- French: Native
+- Literary Arabic: Fluent
   
 ##  Interests
 
